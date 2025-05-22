@@ -10,5 +10,6 @@ venue: "Computer Vision"
 arxiv:
 code: https://github.com/weixuemeng/EN.601.661_group_project
 website: https://jonsungwoo.github.io/6d-pose-estimation/
+video: https://youtu.be/S2MQZLphFyo
 ---
 Implemented FoundationPose in real-time pose estimation using RGB-D inputs and physical objects, showcasing its potential for robust vision-based applications
