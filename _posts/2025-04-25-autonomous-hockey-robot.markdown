@@ -12,4 +12,4 @@ code:
 website: 
 video: https://youtu.be/D3I7RKqEJu8
 ---
-Designed a Autonomous Hockey Playing Robot integrating battery, DC motors, a fan, pixy camera, sensor, ultrasound sensors, and Xbee sensors
+Designed a Autonomous Hockey Playing Robot integrating battery, DC motors, a fan, pixy camera, IMU sensor, ultrasonic sensors, and Xbee(wireless communication) sensors. It detects the color of the puck and uses PID state machine to perfom the task. 
