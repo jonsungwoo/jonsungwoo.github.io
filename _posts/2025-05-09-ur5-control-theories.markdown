@@ -7,7 +7,7 @@ categories: research
 author: "Sungwoo Kim"
 authors: "Sungwoo Kim, Andrew Ying, Suhash Reddy"
 venue: "Robot Dynamics Kinematics Device Control (RDKDC)"
-arxiv: 
+arxiv: /pdfs/rdkdc_final_project.pdf
 code: 
 website: 
 video: 
